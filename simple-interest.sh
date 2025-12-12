@@ -24,3 +24,7 @@ read t
 s=$(expr $p \* $t \* $r / 100)
 echo "The simple interest is: "
 echo $s
+
+
+# Prakash added a new line
+# Prakash added another new line here
